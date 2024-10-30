@@ -1,0 +1,3 @@
+C:/Users/jayxw/Desktop/AnimalCrossing/build/CMakeFiles/MyExecutable.dir
+C:/Users/jayxw/Desktop/AnimalCrossing/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jayxw/Desktop/AnimalCrossing/build/CMakeFiles/ZERO_CHECK.dir
